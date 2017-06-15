@@ -1,0 +1,7 @@
+﻿  GraphSearchAlgo.cpp
+d:\develop\andorid\visual_studio_2017_workspace\projects\graphsearchalgo\graphsearchalgo\graphsearchalgo.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+d:\develop\andorid\visual_studio_2017_workspace\projects\graphsearchalgo\graphsearchalgo\graphsearchalgo.cpp(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  GraphSearchAlgo.vcxproj -> D:\Develop\Andorid\Visual_Studio_2017_WorkSpace\Projects\GraphSearchAlgo\Debug\GraphSearchAlgo.exe
+  GraphSearchAlgo.vcxproj -> D:\Develop\Andorid\Visual_Studio_2017_WorkSpace\Projects\GraphSearchAlgo\Debug\GraphSearchAlgo.pdb (Partial PDB)
